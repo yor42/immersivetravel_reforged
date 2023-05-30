@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "traveloverhaul:katometer"
+    },
+    {
+      "item": "traveloverhaul:barometer"
+    }
+  ],
+  "result": {
+    "item": "traveloverhaul:multi_katometer",
+    "count": 1
+  }
+}

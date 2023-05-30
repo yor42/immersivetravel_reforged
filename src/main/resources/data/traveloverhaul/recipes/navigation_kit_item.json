@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "traveloverhaul:sextant"
+    },
+    {
+      "item": "traveloverhaul:barometer"
+    }
+  ],
+  "result": {
+    "item": "traveloverhaul:navigation_kit",
+    "count": 1
+  }
+}

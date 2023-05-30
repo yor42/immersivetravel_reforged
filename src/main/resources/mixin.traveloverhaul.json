@@ -1,0 +1,14 @@
+{
+  "package": "com.yor42.traveloverhaul.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "traveloverhaul.refmap.json",
+  "required": true,
+  "minVersion": "0.8",
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+    "Coordinates",
+    "Spyglass"
+  ]
+}
